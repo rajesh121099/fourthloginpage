@@ -1,0 +1,20 @@
+/* .example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  } */
+
+  .row{
+    width: 100%;
+    }
+    
+     
+  
+  .example-full-width {
+    width: 57%;
+  }
+
+  .forget{
+      text-decoration: none;
+      color: rgb(163, 156, 156);
+  }

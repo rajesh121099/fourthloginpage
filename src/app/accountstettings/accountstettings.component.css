@@ -1,0 +1,25 @@
+/* .row{
+    width: 100%;
+} */
+
+.btn-width{
+
+    width: 100%;
+    
+}
+
+
+.line{
+    width: 300px;
+    border: 1px solid rgb(219, 218, 218);
+    /* padding: 50px; */
+    margin: 20px;
+    height: 150%;
+    
+}
+.example-container {
+  
+    height: 95vh;
+    margin: 10px;
+    border: 1px solid #555;
+  }
