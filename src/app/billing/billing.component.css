@@ -1,4 +1,4 @@
- .row{
+.row{
     width: 100%;
 } 
 
@@ -79,7 +79,7 @@
   .box1 {
     float: left;
     width: 79%;
-    border: 1px solid black;
+   
     padding: 50px;
   }
   .clearfix::after {
@@ -89,7 +89,19 @@
     
   }
 
-
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+  
+    text-align: left;
+    padding: 8px;
+  }
+  
+ 
 
 
 

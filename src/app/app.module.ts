@@ -18,13 +18,17 @@ import {MatCardModule} from '@angular/material/card';
 import {MatButtonToggleModule} from '@angular/material/button-toggle';
 import {MatSidenavModule} from '@angular/material/sidenav';
 import {MatGridListModule} from '@angular/material/grid-list';
+import { BillingComponent } from './billing/billing.component';
+import { PasswordComponent } from './password/password.component';
 @NgModule({
   declarations: [
     AppComponent,
     LoginComponent,
     RegisterComponent,
     ForgetComponent,
-    AccountstettingsComponent
+    AccountstettingsComponent,
+    BillingComponent,
+    PasswordComponent
   ],
   imports: [
     BrowserModule,
