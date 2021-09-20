@@ -38,6 +38,9 @@ import { PasswordComponent } from './password/password.component';
         {path:'Login',component:LoginComponent},
         {path:'Register',component:RegisterComponent},
         {path:'Forget',component:ForgetComponent},
+        {path:'Accountstettings',component:AccountstettingsComponent},
+        {path:'Billing',component:BillingComponent},
+        {path:'Password',component:PasswordComponent},
       ])
   ],
   providers: [],
